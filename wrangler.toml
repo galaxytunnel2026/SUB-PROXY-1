@@ -1,4 +1,4 @@
 name = "v20251104"
 main = "_worker.js"
-compatibility_date = "2026-22-08"
+compatibility_date = "2026-07-28"
 keep_vars = true
