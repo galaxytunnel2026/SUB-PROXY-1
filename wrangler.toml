@@ -1,4 +1,4 @@
-name = "v20251104"
+name = "sub-groxy"
 main = "_worker.js"
 compatibility_date = "2026-07-28"
 keep_vars = true
